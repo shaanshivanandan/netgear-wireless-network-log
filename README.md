@@ -3,14 +3,14 @@
 	<h3 align="center">Redesign Email Logs</h3>
 	<p align="center">Redesigned email template for Netgear's wireless network log notifications.</p>
 	<p align="center">
-		<a href="https://github.com/digitdesign/xd/releases/latest">
-			<img src="https://img.shields.io/github/release/digitdesign/xd.svg" alt="" />
+		<a href="https://github.com/shaanshivanandan/netgear-wireless-network-log/releases/latest">
+			<img src="https://img.shields.io/github/release/shaanshivanandan/netgear-wireless-network-log.svg" alt="" />
 		</a>
-		<a href="https://github.com/digitdesign/xd/find/master">
-			<img src="https://img.shields.io/github/repo-size/digitdesign/xd.svg" alt="" />
+		<a href="https://github.com/shaanshivanandan/netgear-wireless-network-log/find/master">
+			<img src="https://img.shields.io/github/repo-size/shaanshivanandan/netgear-wireless-network-log.svg" alt="" />
 		</a>
-		<a href="https://github.com/digitdesign/xd/search?l=css">
-			<img src="https://img.shields.io/github/languages/top/digitdesign/xd.svg" alt="" />
+		<a href="https://github.com/shaanshivanandan/netgear-wireless-network-log/search?l=css">
+			<img src="https://img.shields.io/github/languages/top/shaanshivanandan/netgear-wireless-network-log.svg" alt="" />
 		</a>
 	</p>
 </div>
@@ -18,17 +18,17 @@
 <hr />
 
 ### Installation
-- [Download latest release](https://github.com/digitdesign/xd/archive/master.zip) or;
+- [Download latest release](https://github.com/shaanshivanandan/netgear-wireless-network-log/archive/master.zip) or;
 - Clone the repository via command line:
 ```sh
 git clone https://github.com/digitdesign/xd.git
 ```
 
 ### Contributing
-Feel free to dive in! [Open an issue](https://github.com/digitdesign/xd/issues/new/) or submit a PR.
+Feel free to dive in! [Open an issue](https://github.com/shaanshivanandan/netgear-wireless-network-log/issues/new/) or submit a PR.
 
 ### License
-Copyright (c) 2018 Go Digit General Insurance Ltd. or its affiliates
+MIT License
 
 ### Acknowledgement
 This project was created and is maintained by [Shaan Shivanandan](https://github.com/shaanshivanandan).
