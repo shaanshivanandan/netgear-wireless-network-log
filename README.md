@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://https://i.ibb.co/TYgw5Yz/netgear-id.jpg" width="128" alt="Netgear" />
+	<img src="https://i.ibb.co/TYgw5Yz/netgear-id.jpg" width="128" alt="Netgear" />
 	<h3 align="center">Redesign Email Logs</h3>
 	<p align="center">Redesigned email template for Netgear's wireless network log notifications.</p>
 	<p align="center">
